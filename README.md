@@ -10,12 +10,13 @@
  
 
 </p>
-<div size='20px'> My name is Rhys. <img src = "https://i.imgur.com/AcPuC1N.png" width = 50px> </h1>
+<div size='20px'> My name is Rhys. </h1>
 </div>
 
 <h3> About Me </h3>
 
-<img width="20%" align="right" alt="glitch circle" src="https://i.imgur.com/fePJFO1.png" />
+<img width="20%" align="right" alt="glitch circle" src="https://i.imgur.com/AcPuC1N.png">
+
 
 
 - 🔭 I’m currently working on Web Apps & My Blog
