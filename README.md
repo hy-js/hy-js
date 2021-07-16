@@ -1,8 +1,8 @@
 
-<div align="center">
+<!-- <div align="center">
 <img width="50%" height = "50%" src="https://i.imgur.com/gbKpHbP.png" alt="cover" />
 </div>
-
+ -->
 <h1> Hy! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
