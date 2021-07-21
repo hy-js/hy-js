@@ -23,12 +23,12 @@
 - 🔭 I’m currently working on Web Apps & My Blog
 
 - 🌱 I’m currently learning Node.js, HTML, CSS, Jekyll, Linux 
-
+<!-- 
 <h3> Stuff I worked on last week</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hyjs&compact=True"/>
 </a>
-<br>
+<br> -->
 
 
 <!-- <h3> My GitHub Stats </h3>
