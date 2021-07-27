@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Web Apps & My Blog
 
-- 🌱 I’m currently learning Node.js, HTML, CSS, Jekyll, Linux 
+- 🌱 I’m currently learning Node.js, SQL, Jekyll, Linux 
 <!-- 
 <h3> Stuff I worked on last week</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
