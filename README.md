@@ -1,7 +1,7 @@
 
 <h1> Hy! 👋 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js) -->
  
 
 </p>
