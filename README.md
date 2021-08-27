@@ -1,9 +1,7 @@
 
 <h1> Hy! 👋 </h1>
-<!--  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'> -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js)
  
 
 </p>
@@ -16,4 +14,4 @@
 
 - 🔭 I’m currently working on Web Apps & My Blog
 
-- 🌱 I’m currently learning Node.js, SQL, Jekyll, Linux 
+- 🌱 I’m currently learning MERN stack, linux 
