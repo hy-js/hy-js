@@ -14,4 +14,4 @@
 
 - 🔭 I’m currently working on Web Apps & My Blog
 
-- 🌱 I’m currently learning MERN stack, linux 
+- 🌱 I’m currently learning MERNG stack & DevOps, VIM
