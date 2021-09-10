@@ -1,7 +1,7 @@
 
 <h1> Hy! 👋 </h1>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hy-js.hy-js)
  
 
 </p>
@@ -14,4 +14,4 @@
 
 - 🔭 I’m currently working on Web Apps & My Blog
 
-- 🌱 I’m currently learning MERNG stack & DevOps, VIM
+- 🌱 I’m currently learning MERNG stack & DevOps
