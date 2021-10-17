@@ -12,6 +12,6 @@
 
 
 
-- 🔭 I’m currently working on Web Apps & My Blog
+- 🔭 I’m currently working on Internship, Web Apps & My Blog
 
-- 🌱 I’m currently learning MERNG stack & DevOps
+- 🌱 I’m currently learning Angular & MERNG stack
