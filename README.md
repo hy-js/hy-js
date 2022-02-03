@@ -12,4 +12,6 @@
 
 - 🔭 I’m currently working on Coding Instruction, Web Apps & My Blog
 
-- 🌱 I’m currently learning Angular & MERNG stack
+- 🌱 I’m currently learning Angular
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy-js&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
