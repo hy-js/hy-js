@@ -10,8 +10,6 @@
 
 <h3> About Me </h3>
 
-
-
-- 🔭 I’m currently working on Internship, Web Apps & My Blog
+- 🔭 I’m currently working on Coding Instruction, Web Apps & My Blog
 
 - 🌱 I’m currently learning Angular & MERNG stack
